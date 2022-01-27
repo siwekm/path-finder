@@ -1,5 +1,5 @@
 # Pathfinder
-Basic pathfinding visualization of diffrent algorithms in python
+Visualization of diffrent pathfinding algorithms in python
 
 Availible algorithms:
 - dfs
